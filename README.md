@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+Welcome to my GitHub profile!
 
 <!--
 **newb2pro/newb2pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 What I’m currently learning...
+
+I am currently sharpening my skills in: <picture> <img alt="python icon" src="https://github.com/newb2pro/newb2pro/blob/main/pythonicon.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/newb2pro/newb2pro/blob/main/pythonicon.png">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/newb2pro/newb2pro/blob/main/pythonicon.png">
+</picture>
+
